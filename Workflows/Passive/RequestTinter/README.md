@@ -1,8 +1,8 @@
-# tint-my-requests
+# RequestTinter
 
 Author: [deathflash](https://x.com/deathflash1411) / [OsmSec](https://github.com/osmsec)
 
-Tint-my-requests is a Caido workflow that applies color tints to in-scope HTTP requests, making it easier to identify them based on their respective methods as below:
+RequestTinter is a Caido workflow that applies color tints to in-scope HTTP requests, making it easier to identify them based on their respective methods as below:
 
 | Method | Color           |
 | ------ | --------------- |
@@ -13,4 +13,4 @@ Tint-my-requests is a Caido workflow that applies color tints to in-scope HTTP r
 
 Screenshot:
 
-![tint-my-requests](https://i.imgur.com/iUaFXxX.png)
+![RequestTinter](https://i.imgur.com/iUaFXxX.png)

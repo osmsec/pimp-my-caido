@@ -1,5 +1,5 @@
 {
-  "description": "RequestTinter",
+  "description": "Tints Requests",
   "edition": 2,
   "graph": {
     "edges": [
@@ -539,5 +539,5 @@
   },
   "id": "c908f94e-a99e-4701-8c23-d4dfcb7b5205",
   "kind": "passive",
-  "name": "tint-my-requests"
+  "name": "RequestTinter"
 }
