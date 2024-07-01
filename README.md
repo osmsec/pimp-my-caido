@@ -6,7 +6,7 @@ Enhance your Caido experience with optimized workflows and powerful plugins!
 
 ### 1. Passive
 
-WIP
+- [tint-my-requests](Workflows/Passive/tint-my-requests/) - Request Tinter
 
 ### 2. Active
 
