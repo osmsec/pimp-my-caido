@@ -1,2 +1,17 @@
 # pimp-my-caido
-Enhance Your Caido Experience with Optimized Workflows and Powerful Plugins!
+
+Enhance your Caido experience with optimized workflows and powerful plugins!
+
+## Worfklows
+
+### 1. Passive
+
+WIP
+
+### 2. Active
+
+WIP
+
+## Plugins
+
+WIP
